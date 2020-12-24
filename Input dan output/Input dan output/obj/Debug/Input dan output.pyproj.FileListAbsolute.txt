@@ -1,0 +1,24 @@
+D:\Python\Input dan output\Input dan output\bin\Debug\Window1.xaml
+D:\Python\Input dan output\Input dan output\bin\Debug\Input dan output.exe.config
+D:\Python\Input dan output\Input dan output\bin\Debug\Input dan output.exe
+D:\Python\Input dan output\Input dan output\bin\Debug\Input dan output.dll
+D:\Python\Input dan output\Input dan output\bin\Debug\IronPython.dll
+D:\Python\Input dan output\Input dan output\bin\Debug\IronPython.Modules.dll
+D:\Python\Input dan output\Input dan output\bin\Debug\IronPython.Wpf.dll
+D:\Python\Input dan output\Input dan output\bin\Debug\Microsoft.Dynamic.dll
+D:\Python\Input dan output\Input dan output\bin\Debug\Microsoft.Scripting.dll
+D:\Python\Input dan output\Input dan output\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Python\Input dan output\Input dan output\obj\Debug\Input dan output.pyprojResolveAssemblyReference.cache
+D:\Python\Input dan output\Input dan output\obj\Debug\Input dan output.exe
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\bin\Debug\Window1.xaml
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\bin\Debug\Input dan output.exe.config
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\bin\Debug\Input dan output.exe
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\bin\Debug\Input dan output.dll
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\bin\Debug\IronPython.dll
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\bin\Debug\IronPython.Modules.dll
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\bin\Debug\IronPython.Wpf.dll
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\bin\Debug\Microsoft.Dynamic.dll
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\bin\Debug\Microsoft.Scripting.dll
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\obj\Debug\Input dan output.pyprojResolveAssemblyReference.cache
+D:\Python\Tugas GUI IronPython\Input dan output\Input dan output\obj\Debug\Input dan output.exe
